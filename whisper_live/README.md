@@ -1,0 +1,1 @@
+Copy-pasted from https://github.com/collabora/WhisperLive/blob/main/whisper_live so we can fine-tune some parameters
